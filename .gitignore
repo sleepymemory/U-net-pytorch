@@ -3,3 +3,4 @@
 /result
 *.pth
 *.txt
+/__pycache__
